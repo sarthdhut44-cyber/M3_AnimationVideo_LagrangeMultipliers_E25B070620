@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+_Code/build_audio/
+_Code/build_segments/
+_Code/build_previews/
